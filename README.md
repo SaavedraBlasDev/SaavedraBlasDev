@@ -21,7 +21,7 @@ Actualmente estudio **Administración Cloud en Teclab** y me preparo para dar el
 - 🎯 Estudiando los servicios core de **AWS**: EC2, S3, VPC, IAM, RDS, CloudFront, CloudWatch
 - 🐧 Apasionado por **Linux** (Ubuntu / Fedora) y entornos de servidor
 - 🔧 Background sólido en **soporte de infraestructura corporativa**
-- 📍 Plan a futuro: relocarme a la Patagonia post-graduación
+
 
 ---
 
